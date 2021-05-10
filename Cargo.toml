@@ -5,6 +5,5 @@ panic = 'unwind'
 resolver = "2"
 members = [
     'node',
-    'pallets/*',
     'runtime',
 ]
